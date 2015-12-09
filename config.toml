@@ -8,3 +8,4 @@ publishdir =  "public"
 [params]
     description = "Yet another blog on code, security & thoughts"
     author = "Nicolas Gailly"
+    disqusShortname = "bcd"
