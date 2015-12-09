@@ -1,3 +1,10 @@
 baseurl = "http://replace-this-with-your-hugo-site.com/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "A blog"
+contentdir = "content"
+layoutdir = "layouts"
+publishdir =  "public"
+
+[params]
+    description = "Yet another blog on code, security & thoughts"
+    author = "Nicolas Gailly"
