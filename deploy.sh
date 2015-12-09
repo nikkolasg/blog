@@ -2,6 +2,8 @@
 
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
+git commit -am "$1"
+git push
 # Build the project.
 hugo -t hyde # if using a theme, replace by `hugo -t <yourtheme>`
 
