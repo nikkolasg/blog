@@ -1,4 +1,4 @@
-baseurl = "https://nikkolasg.github.io"
+baseurl = "https://nikkolasg.github.io/"
 languageCode = "en-us"
 title = "A blog"
 contentdir = "content"
@@ -6,6 +6,6 @@ layoutdir = "layouts"
 publishdir =  "public"
 
 [params]
-    description = "Yet another blog on code, security & thoughts"
+    description = "Yet another blog on code, security & ideas"
     author = "Nicolas Gailly"
     disqusShortname = "bcd"
