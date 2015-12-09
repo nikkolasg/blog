@@ -1,12 +1,12 @@
 +++
 date = "2015-12-09T22:30:23+01:00"
-title = "about"
+title = "About"
 
 +++
 
-## Hi
+## Hey you
 
 I'm nicolas gailly, a computer scientist guy that likes coding & security.
-One thing I also am interested in are the international politics (who are the puppet masters??) 
-& our right for freedom of speech and information on the internet (at what point
-what I read is OK or not for our dear leaders).
+Others things I also am interested in are the international politics (who are our puppet masters??) 
+& our right for freedom of speech and informations on the internet (at what point
+what I read is OK or not for our dear & lovely leaders).
