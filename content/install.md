@@ -60,3 +60,12 @@ DNS=('****')
 ```
 * Don't forget to `netctl enable ethernet-static`
 * Don't forget to `systemctl enable sshd`
+* For non official packages, install yaourt:
+```
+[root@****] cat /etc/pacman.conf
+# ####
+# ...
+[archlinuxfr]
+ SigLevel = Never
+ Server = http://repo.archlinux.fr/$arch
+```
