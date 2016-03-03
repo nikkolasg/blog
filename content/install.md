@@ -47,7 +47,7 @@ hours.
 [root@***** ~]# cat /etc/udev/rules.d/10-network.rules
 SUBSYSTEM=="net", ACTION=="add", ATTR{address}=="**:**:**:**:**:**",NAME="eth0"}
 ```
-Then I use netctl (for lxc ease-of-use containers network):
+* use netctl (for lxc ease-of-use containers network):
 ```
 [root@**** ~]# cat /etc/netctl/ethernet-static
 Description='Server ethernet connection'
