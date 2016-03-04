@@ -7,4 +7,4 @@ title = "About Me"
 
 **Since** I've read so much from other blogs, I thought I should share a bit more,
 get out of my confort zone and share some thougts / experiences that may be
-useful to others. So here I am, nicolas gailly, a computer scientist guy that likes programming & security.
+useful to others.It's actually also a nice way to remember things for yourself.
