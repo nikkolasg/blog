@@ -1,9 +1,7 @@
 +++
 date = "2016-11-15T11:30:00+01:00"
-title = "Github images in the wiki"
+title = "Directly embedding images into a Github wiki"
 +++
-
-# Directly embedding images into a Github wiki
 
 Although there's a reasonable amount of posts saying that you have to upload a
 image to your repository (the code), and then link with the "raw" approach, my
