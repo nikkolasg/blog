@@ -25,7 +25,7 @@ Notes from https://www.debuntu.org/how-to-importexport-gpg-key-pair/
 * Export public key: `gpg --output mygpgkey_pub.gpg --armor --export <key-id>` where key-id is the
   last part when you list the key `*****/<key-id>`
 * Export secret key : `gpg --output mygpgkey_sec.gpg --armor --export-secret-key ******`
-* Copy keys to remote server: `scp mygpgkey_pub.gpg mygpgkey_sec.gpg user@remotehost:~/
+* Copy keys to remote server: `scp mygpgkey_pub.gpg mygpgkey_sec.gpg user@remotehost:~/`
 * Connect to remote: `ssh user@remotehost`
 * Import the public key: `gpg --import ~/mygpgkey_pub.gpg`
 * Import the secret key: `gpg --allow-secret-key-import --import
